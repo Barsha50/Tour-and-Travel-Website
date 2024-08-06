@@ -1,0 +1,38 @@
+.multi {
+    margin-top: 6%;
+    text-align: center;
+    color: #fff;
+    filter: drop-shadow(3px 3px 3px);
+    padding: 0px 10vw;
+}
+.uhf {
+    height: 80px;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0,
+            0.3) 0px 8px 16px -8px;
+}
+
+.uhf h1 {
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+    color: #0a0a0a;
+    text-align: center;
+}
+
+.cds img {
+    margin-top: 9%;
+    filter: drop-shadow(5px 5px 5px black);
+    height: 350px;
+    width: 330px;
+}
+
+.react-multiple-carousel__arrow{
+    background: rgb(255 0 0);
+    filter: drop-shadow(3px 3px 3px black);
+}
+.react-multiple-carousel__arrow:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(1.1);
+}

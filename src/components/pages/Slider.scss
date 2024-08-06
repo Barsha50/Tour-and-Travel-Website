@@ -1,0 +1,39 @@
+.shape img{
+    height: 86vh;
+    width: auto;
+}
+.shape h3{
+    font-size: 55px;
+    filter: drop-shadow(2px 2px 1px rgb(0, 0, 0));
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+.shape p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+}
+.carousel-control-next-icon{
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    width: 3rem;
+    height: 3rem;
+    filter: drop-shadow(3px 2px 1px black);
+}
+
+.carousel-control-prev-icon{
+    filter: drop-shadow(3px 2px 1px black);
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    width: 3rem;
+    height: 3rem;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #f10707;
+    filter: drop-shadow(2px 2px 1px black);
+ 
+ }
